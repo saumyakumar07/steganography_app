@@ -56,9 +56,6 @@ Feel free to fork this repository and submit pull requests! If you find any issu
 ## 📄 License
 This project is licensed under the **MIT License**.
 
-## 🔗 Connect with Me
-- **GitHub:** [YourGitHubProfile](https://github.com/yourusername)
-- **LinkedIn:** [YourLinkedInProfile](https://www.linkedin.com/in/yourprofile)
 
 ---
 💡 *If you like this project, don't forget to ⭐ the repository!*
